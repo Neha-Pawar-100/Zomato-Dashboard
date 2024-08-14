@@ -51,3 +51,7 @@ This Power BI dashboard provides an in-depth analysis of Zomato sales and user d
 ### User Analysis
 
 <img width="1080" alt="ZPic 2" src="https://github.com/user-attachments/assets/c89366f1-5072-4526-a15c-65f892e1584c">
+
+### City Analysis
+
+<img width="1080" alt="ZPic 3" src="https://github.com/user-attachments/assets/a87a2d58-ca2a-4ffb-8722-dd14d1bcb191">
