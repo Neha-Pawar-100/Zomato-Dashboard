@@ -4,7 +4,7 @@
 This Power BI dashboard provides an in-depth analysis of Zomato sales and user data. It provides detailed insights into sales performance, user demographics, and city-specific metrics, all designed to facilitate data-driven decision making.
 
 ## FEATURES
-###Overall Sales Analysis
+### Overall Sales Analysis
 * SALES VISUALIZATION : Displays amount-wise and quantity-wise sales with interactive slicers.
 * CITY RANKINGS : Explores sales data for Top 5, Top 10, Top 20, Top 50, Top 100 cities by both-sales amount and sales quantity.
 * YEARLY SALES TRENDS : Analyzes sales trend over the years using a line chart.
