@@ -56,5 +56,15 @@ This Power BI dashboard provides an in-depth analysis of Zomato sales and user d
 
 <img width="1080" alt="ZPic 3" src="https://github.com/user-attachments/assets/a87a2d58-ca2a-4ffb-8722-dd14d1bcb191">
 
-
-
+## DAX FUNCTIONS USED
+### Utilized a range of DAX functions to enhance data analysis and modellinng.
+* **Calculate** : Applied for complex calculations and aggregations.
+* **SelectedValues** : Used to retrieve values from tables and columns.
+* **Right** : Employed for text manipulation and data extraction.
+* **Filter** : Implemented to refine data subsets and apply conditional logic.
+* **Summarize** : Created aggregated summaries and table.
+* **If** : Incorporated for conditional calculations and logic.
+* **Count,Sum,DistinctCount** : Utilized for various counting and aggregation needs.
+* **Floor** : Applied to round down numerical values for reporting purposes.
+* **RankX** : Used for ranking data and generating performance metrics.
+* **DataTable** : Created static data table within the Power BI model.
